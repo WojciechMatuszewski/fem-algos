@@ -1,0 +1,8 @@
+[workspace]
+
+members = [
+    "./linear-search/rust",
+    "./binary-search/rust",
+    "./crystal-ball/rust",
+    "./bubble-sort/rust"
+]
