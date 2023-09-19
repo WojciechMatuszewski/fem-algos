@@ -5,5 +5,6 @@ members = [
     "./binary-search/rust",
     "./crystal-ball/rust",
     "./bubble-sort/rust",
-    "./queue/rust"
+    "./queue/rust",
+    "./stack/rust"
 ]
